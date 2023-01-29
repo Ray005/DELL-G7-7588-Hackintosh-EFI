@@ -1,0 +1,1 @@
+# DELL-G7-7588-Hackintosh-EFI
